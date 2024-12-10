@@ -1,0 +1,5 @@
+netenv
+.env
+Artifacts
+final_model
+*.pyc
