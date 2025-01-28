@@ -1,5 +1,6 @@
 netenv
 .env
-Artifacts
-final_model
-*.pyc
+Artifacts/
+final_model/
+logs/
+__pycache__
